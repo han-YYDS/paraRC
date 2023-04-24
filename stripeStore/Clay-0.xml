@@ -1,0 +1,15 @@
+<stripe>
+<attribute><name>code</name><value>Clay</value></attribute>              
+<attribute><name>ecn</name><value>4</value></attribute>                
+<attribute><name>eck</name><value>2</value></attribute>                
+<attribute><name>ecw</name><value>4</value></attribute>               
+<attribute><name>stripename</name><value>Clay-0</value></attribute>   
+<attribute><name>blocklist</name>                                      
+<value>stripe-0-0:192.168.7.12</value>                               
+<value>stripe-0-1:192.168.7.14</value>                               
+<value>stripe-0-2:192.168.7.23</value>                                
+<value>stripe-0-3:192.168.7.27</value>                                
+</attribute>                                                           
+<attribute><name>blockbytes</name><value>102400</value></attribute> 
+<attribute><name>subpktbytes</name><value>12800</value></attribute>      
+</stripe>                                        
